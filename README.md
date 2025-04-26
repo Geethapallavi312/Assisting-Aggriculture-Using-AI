@@ -39,5 +39,11 @@ Our goal is to help farmers and agricultural experts make better and faster deci
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/assisting-agriculture-using-ai.git
-   cd assisting-agriculture-using-ai
+   git clone https://github.com/Geethapallavi312/Assisting-Aggriculture-Using-AI
+
+## 🤝 Acknowledgements
+- Thanks to Kaggle and PlantVillage for providing open datasets.
+
+- Special thanks to all open-source contributors and libraries used in this project.
+
+
