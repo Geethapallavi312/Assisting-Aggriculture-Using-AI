@@ -41,6 +41,12 @@ Our goal is to help farmers and agricultural experts make better and faster deci
    ```bash
    git clone https://github.com/Geethapallavi312/Assisting-Aggriculture-Using-AI
 
+## 🔥 Download Trained Model
+- The trained .keras model file used for Plant Disease Detection is large and could not be uploaded directly to GitHub (100MB limit).
+
+- 👉 You can download the model from the link below: https://drive.google.com/file/d/14VnXBJ-GxmsNfAK9oAlyZy0IvHf_K6nH/view?usp=sharing
+
+
 ## 🤝 Acknowledgements
 - Thanks to Kaggle and PlantVillage for providing open datasets.
 
